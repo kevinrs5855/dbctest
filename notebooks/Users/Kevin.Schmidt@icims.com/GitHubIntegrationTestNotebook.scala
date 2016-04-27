@@ -1,4 +1,4 @@
-// Databricks notebook source exported at Wed, 27 Apr 2016 20:53:12 UTC
+// Databricks notebook source exported at Wed, 27 Apr 2016 20:53:30 UTC
 // MAGIC %md my test notebook with an initial comment 4:22PM%md my test notebook with an initial comment 4:22PM
 
 // COMMAND ----------
@@ -15,4 +15,6 @@ val test = "my test"val test = "my test"
 
 // COMMAND ----------
 
-val newstuff = "gitness"val masteraddition = "git master add"
+val newstuff = "gitness"
+
+val masteraddition = "git master add"
